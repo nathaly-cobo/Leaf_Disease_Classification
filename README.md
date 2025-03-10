@@ -6,7 +6,6 @@ This project focuses on using Machine Learning to classify and identify paddy le
 ## Authors
 - **Nathaly Cobo Piza**
 - **Sai Chaitanya Yerramsetty**
-- **International Technological University**
 
 ## Technologies Used
 - **Programming Language**: Python
